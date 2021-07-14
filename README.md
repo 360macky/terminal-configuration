@@ -1,2 +1,2 @@
-# terminal-configuration
+# 🔩 Terminal Configuration
 ✨🎨 Windows Terminal personal configuration
